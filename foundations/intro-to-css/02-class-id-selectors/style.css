@@ -3,6 +3,10 @@
     font-size: 36px;
 }
 
+#third {
+    font-size: 24px;
+}
+
 .odd {
     background-color: rgb(236, 135, 152);
     font-family: Verdana, "Dejavu Sans", sans-serif;
